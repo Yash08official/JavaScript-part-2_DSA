@@ -33,3 +33,24 @@ and this measurement of seeing that how much time that my algorithm is going to 
 1. Big O notation
 2. Omega notation
 3. Theta notation
+
+## Space Complexity
+
+Like time complexity we also have space complexity which determine how much "memory" my algorithm will take to run the program
+let say
+
+```js
+let a = 10;
+for(i=0;i<a ; i++){
+    console.log("Hello")
+}
+```
+
+this operation takes "n" times but about space
+it is taking the variable "a" so inside memory the variable "n" and inside this n there can be any value , you can run this loop 10 times or any no times
+
+So, space complexity for this solution , it will be simple it will constant it is not taking any extra space only some variable it is taking now this variable can store big values also so in some cases the extra space is not required 
+
+if we are taking the input from the user then the space will be increase 
+if we say input will be of 100 times and so many times the space will be increasing
+
