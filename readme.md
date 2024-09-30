@@ -56,7 +56,6 @@ Before diving into this repository, I recommend checking out my previous reposit
   <li>MDN Web Docs: https://developer.mozilla.org/</li>
   <li>GeeksforGeeks: https://www.geeksforgeeks.org/</li>
   <li>LeetCode: https://leetcode.com/</li>
-  <li>HackerRank: https://www.hackerrank.com/</li>
 </ul>
 
 ## Getting Started 🚀
