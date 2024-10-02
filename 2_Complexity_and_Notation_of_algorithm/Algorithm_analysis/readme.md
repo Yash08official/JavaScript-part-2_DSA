@@ -77,4 +77,32 @@ When you say worst case so this will take maximum time the algorithm is take tha
 
 so the worst case complexity is O(n sqaure)
 
+### Space Complexity Problems
 
+Suppose you have a question to find some of all elements of array
+let say your array is
+
+```bash
+const a = [1,2,3,4,5];
+```
+
+Now you have to find the sum of all elements oif the array
+
+lets say then
+
+```bash
+let sum = 0;
+for(i=0; i>=sum.length;i++){
+     sum = sum + a[i];
+}
+```
+
+in this the time complexity is O(n) and in this it is taking some extra space where sum = 0 which is constant space and then i we are not taking any extra space to solve this question so the space complexity for this problem is O(n)
+
+Lets talk about another problem statement
+let say you have a string
+
+```bash
+const str = "Internshalla";
+```
+and now you want to write the algorithm to reverse the string so now you have to run a loop from end of this string
